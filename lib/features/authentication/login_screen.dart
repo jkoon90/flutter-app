@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_app/constants/gaps.dart';
 import 'package:flutter_app/constants/sizes.dart';
 import 'package:flutter_app/features/authentication/sign_up_screen.dart';
-import 'package:flutter_app/features/authentication/wigets/auth_button.dart';
+import 'package:flutter_app/features/authentication/widgets/auth_button.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class LoginScreen extends StatelessWidget {
